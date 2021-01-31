@@ -9,17 +9,15 @@
     "phone": "555-555-5555",
     "github":"https://github.com/Honeypot-Attack-Visualizer/Information-Website",
     "project":"",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com", 
   "resources":{
-    "skillmessage":"sdsdf",
-    "book":[
-      {
-        "title":"Intrusion Detection Honeypots: Detection through Deception",
-        "author":"Chris Sanders",
-        "published":"August 2020",
-        "link": "https://www.amazon.com/Intrusion-Detection-Honeypots-through-Deception/dp/1735188301",
-        "description":"A great read that dicusses the fundamentals of honeypots, their purpose, and why they are are a great resource for intrusion detection."
-      }
-    ],
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"University?",
@@ -113,5 +111,4 @@
       }
     ]
   }
-}
 }
