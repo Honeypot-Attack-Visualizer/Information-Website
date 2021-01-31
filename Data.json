@@ -56,18 +56,10 @@
         "description":"A great read the provides a detialed overview of honeypots and how they are beneficial for intrustion detection."
       }
     ],
-    "education":[
+    "website":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "title":"What is a honeypot?",
+        "link":"https://usa.kaspersky.com/resource-center/threats/what-is-a-honeypot"
       }
     ],
     "work":[
