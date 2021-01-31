@@ -8,45 +8,19 @@
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/Honeypot-Attack-Visualizer/Information-Website",
-    "project":"",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
-      }
-    ]
+    "project":""
   },
   "resources":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
+    "book":[
+      {
+        "title":"Intrusion Detection Honeypots: Detection through Deception",
+        "author":"Chris Sanders",
+        "published":"August 2020",
+        "link":"https://www.amazon.com/Intrusion-Detection-Honeypots-through-Deception/dp/1735188301",
+        "description":"A great read the provides a detialed overview of honeypots and how they are beneficial for intrustion detection."
+      }
+    ],
     "education":[
       {
         "school":"University?",
