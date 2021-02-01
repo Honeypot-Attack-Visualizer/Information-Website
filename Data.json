@@ -132,7 +132,7 @@
     ]
   },
   "tools":{
-    "projects": [
+    "tool": [
       {
         "title":"React",
         "image":"react.png",
@@ -140,7 +140,7 @@
       },
       {
         "title":"Decg.gl",
-        "image":"deck-gl.jpg",
+        "image":"deck-gl.png",
         "url":"https://deck.gl/"
       },
       {
