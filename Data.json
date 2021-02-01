@@ -136,32 +136,32 @@
       {
         "title":"React",
         "image":"react.png",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://reactjs.org/docs/getting-started.html"
       },
       {
         "title":"Decg.gl",
         "image":"deck-gl.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://deck.gl/"
       },
       {
         "title":"Google Maps",
-        "image":"googlemaps.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"googlemaps.png",
+        "url":"https://cloud.google.com/maps-platform/?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_460848633508-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20Google%20Maps%20API-KWID_43700033921822021-kwd-335425467-userloc_9030900&utm_term=KW_google%20maps%20api-ST_google%20maps%20api&gclid=Cj0KCQiAx9mABhD0ARIsAEfpavSiC4uqAGTb57gXEafP5ufTSe5UvkWOA8-wHCoVmYHXvyYYl7p09jsaAkBpEALw_wcB"
       },
       {
         "title":"MapBox",
         "image":"mapbox.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.mapbox.com/"
       },
       {
         "title":"MySql",
         "image":"mysql.png",
-        "url":"http://www.smirkspace.com"
+        "url":"https://dev.mysql.com/doc/"
       },
       {
         "title":"Python",
         "image":"python.png",
-        "url":"http://www.smirkspace.com"
+        "url":"https://docs.python.org/3/"
       }
     ]
   }
