@@ -53,25 +53,81 @@
         "author":"Chris Sanders",
         "published":"August 2020",
         "link":"https://www.amazon.com/Intrusion-Detection-Honeypots-through-Deception/dp/1735188301",
-        "description":"A great read the provides a detialed overview of honeypots and how they are beneficial for intrustion detection."
+        "description":"A great read the provides a detialed overview of honeypots and how they are beneficial for intrustion detection. The book specifically covers how honeypots can be used to mimic services such as HTTP, SSH, and RDP. Additionally, tips on monitoring honeypots and how to use the their logs to conduct anaylsis are covered which is one of main challenges that the Honeypot Attack Visualizer is trying to cover."
       }
     ],
     "website":[
       {
         "title":"What is a honeypot?",
         "link":"https://usa.kaspersky.com/resource-center/threats/what-is-a-honeypot"
+      },
+
+      {
+        "title":"Fireye Cyber Threat Map",
+        "link":"https://www.fireeye.com/cyber-map/threat-map.html"
+      },
+
+      {
+        "title":"Kaspersky Cyberthreat Real-Time Map",
+        "link":"https://cybermap.kaspersky.com/"
+      },
+
+      {
+        "title":"Fortinet's threat map solution",
+        "link":"https://threatmap.fortiguard.com/"
       }
     ],
     "paper":[
       {
-        "title":"Awesome Design Studio",
-        "citation":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"Causal analysis of attacks against honeypots based on properties of countries",
+        "citation":"Zuzcak, Matej & Bujok, Petr. (2019). Causal analysis of attacks against honeypots based on properties of countries. IET Information Security. 10.1049/iet-ifs.2018.5141."
+      },
+
+      {
+        "title":"Discovering Hackers by Stealth: Predicting Fingerprinting Attacks on Honeypot Systems",
+        "citiation":"N. Naik and P. Jenkins, 'Discovering Hackers by Stealth: Predicting Fingerprinting Attacks on Honeypot Systems,' 2018 IEEE International Systems Engineering Symposium (ISSE), Rome, 2018, pp. 1-8, doi: 10.1109/SysEng.2018.8544408."
+      },
+
+      {
+        "title":"Study of attack using honeypots and honeynets lessons learned from time-oriented visualization",
+        "citiation":"P. Sokol, L. Kleinová and M. Husák, 'Study of attack using honeypots and honeynets lessons learned from time-oriented visualization,' IEEE EUROCON 2015 - International Conference on Computer as a Tool (EUROCON), Salamanca, 2015, pp. 1-6, doi: 10.1109/EUROCON.2015.7313713."
+      },
+
+      {
+        "title":"Tracking attack sources based on traceback honeypot for ICS network",
+        "citiation":"S. Abe, Y. Tanaka, Y. Uchida and S. Horata, 'Tracking attack sources based on traceback honeypot for ICS network,' 2017 56th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE), Kanazawa, 2017, pp. 717-723, doi: 10.23919/SICE.2017.8105603."
       }
+
     ],
     "news":[
       {
-        "title":"Python",
-        "link":"60%"
+        "title":"DIU Turns To Honeypots For Advanced Cyber Defense",
+        "link":"https://breakingdefense.com/2021/01/diu-turns-to-honeypots-for-advanced-cyber-defense/"
+      }
+
+      {
+        "title":"DDoS Attacks Increased Rapidly During the COVID-19 Pandemic as Hackers Exploited New Tools and Techniques",
+        "link":"https://www.cpomagazine.com/cyber-security/ddos-attacks-increased-rapidly-during-the-covid-19-pandemic-as-hackers-exploited-new-tools-and-techniques/"
+      },
+
+      {
+        "title":"Honeypot reveals tactics used by cybercriminals to deploy ransomware",
+        "link":"https://www.techrepublic.com/article/honeypot-reveals-tactics-used-by-cybercriminals-to-deploy-ransomware/"
+      },
+
+      {
+        "title":"Why you need honeypots in the cloud: A guide",
+        "link":"https://developer-tech.com/news/2020/sep/02/why-you-need-honeypots-in-the-cloud-a-guide/"
+      },
+
+      {
+        "title":"When You Can't Stop Every Cyberattack, Try Honeypots",
+        "link":"https://www.forbes.com/sites/forbestechcouncil/2020/01/28/when-you-cant-stop-every-cyberattack-try-honeypots/?sh=3e8104356cf2"
+      },
+
+      {
+        "title":"Honeypot Network Forensics",
+        "link":"https://securityboulevard.com/2020/10/honeypot-network-forensics/"
       }
     ]
   },
