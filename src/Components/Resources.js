@@ -19,13 +19,13 @@ class Resources extends Component {
       var book = this.props.data.book.map(function(book){
         return <div key={book.title}><h3>{book.title}</h3>
         <p className="info">{book.author} <span>&bull;</span><em className="date">{book.published}</em></p>
-        <p>{book.link}</p>
+        <a href={book.link} target={"_blank"} color={"#808080"}>{book.link}</a>
         <p>{book.description}</p></div>
       })
 
       var website = this.props.data.website.map(function(website){
         return <div key={website.title}><h3>{website.title}</h3>
-        <p>{website.link}</p></div>
+        <a href={website.link} target={"_blank"} color={"#808080"}>{website.link}</a></div>
       })
       var paper = this.props.data.paper.map(function(paper){
         return <div key={paper.title}><h3>{paper.title}</h3>
@@ -35,7 +35,7 @@ class Resources extends Component {
 
       var news = this.props.data.news.map(function(news){
         return <div key={news.title}><h3>{news.title}</h3>
-          <p>{news.link}</p>
+          <a href={news.link} target={"_blank"} color={"#808080"}>{news.link}</a>
         </div>
       })
 

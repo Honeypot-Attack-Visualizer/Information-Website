@@ -10,7 +10,7 @@ class Tools extends Component {
         return (
           <div key={tool.title} className="columns portfolio-item">
             <div className="item-wrap">
-              <a href={tool.url} title={tool.title}>
+              <a href={tool.url} title={tool.title} target={"_blank"}>
                 <img alt={tool.title} src={toolImage} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
