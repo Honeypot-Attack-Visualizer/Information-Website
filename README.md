@@ -1,6 +1,6 @@
 # Template borrowed from the following GitHub repository
 
-[Repository link] (https://github.com/nordicgiant2/react-nice-resume)
+[Repository link](https://github.com/nordicgiant2/react-nice-resume)
 
 # Getting Started with Create React App
 
