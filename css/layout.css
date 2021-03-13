@@ -281,7 +281,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #progress {
-   background: #fff;
+   background: rgb(214, 209, 209);
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
