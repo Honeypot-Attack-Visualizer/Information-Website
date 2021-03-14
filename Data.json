@@ -3,7 +3,7 @@
     "name":"Honeypot Attack Visualizer",
     "description":"CS 426 Senior Project in Computer Science, Spring 2021, at UNR, CSE Department",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"The Honeypot Attack Visualizer is a web application that provides a rich interface for filtering and visualizing previous attacks on a set of honeypots. The visualizer is designed to utilize data from the Cybex-P project at the University of Nevada, Reno. Cybex-P allows security researchers to share details on cyber threats while preserving privacy, although it does not provide ways to analyze the data. The Honeypot Attack Visualizer seeks to fill that role. A map forms the foundation for the visualizer. Honeypot attacks are then presented on a GPU-accelerated map overlay that allows the attacks to be depicted in a variety of formats. The specific attacks that are included in the overlay and the format they are shown in are controlled through numerous options and filters. These options and filters aim to provide users with new perspectives on the same data and help create connections between different parts of the data. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
