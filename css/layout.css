@@ -291,9 +291,12 @@ ul#nav li.current a { color: #fe6928; }
 #progress a:hover, #progress a:focus { color: #313131; }
 
 #progress h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: #95A3A3;
 }
 #progress h1 span {
    border-bottom: 3px solid #0762f9;
