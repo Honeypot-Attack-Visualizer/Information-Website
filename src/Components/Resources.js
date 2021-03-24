@@ -19,13 +19,21 @@ class Resources extends Component {
       var book = this.props.data.book.map(function(book){
         return <div key={book.title}><h3>{book.title}</h3>
         <p className="info">{book.author} <span>&bull;</span><em className="date">{book.published}</em></p>
+<<<<<<< HEAD
         <a href={book.link} target="_blank">{book.link}</a>
+=======
+        <a href={book.link} target={"_blank"} color={"#808080"}>{book.link}</a>
+>>>>>>> 6e637bbcd6116a4aecabffac7496641d8f8e3835
         <p>{book.description}</p></div>
       })
 
       var website = this.props.data.website.map(function(website){
         return <div key={website.title}><h3>{website.title}</h3>
+<<<<<<< HEAD
         <a href={website.link} target="_blank">{website.link}</a></div>
+=======
+        <a href={website.link} target={"_blank"} color={"#808080"}>{website.link}</a></div>
+>>>>>>> 6e637bbcd6116a4aecabffac7496641d8f8e3835
       })
       var paper = this.props.data.paper.map(function(paper){
         return <div key={paper.title}><h3>{paper.title}</h3>
@@ -35,7 +43,11 @@ class Resources extends Component {
 
       var news = this.props.data.news.map(function(news){
         return <div key={news.title}><h3>{news.title}</h3>
+<<<<<<< HEAD
           <a href={news.link} target="_blank">{news.link}</a>
+=======
+          <a href={news.link} target={"_blank"} color={"#808080"}>{news.link}</a>
+>>>>>>> 6e637bbcd6116a4aecabffac7496641d8f8e3835
         </div>
       })
 
