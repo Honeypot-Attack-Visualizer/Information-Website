@@ -7,6 +7,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resources from './Components/Resources';
 import Tools from './Components/Tools';
+import Progress from './Components/Progress';
 
 class App extends Component {
 
@@ -47,6 +48,7 @@ class App extends Component {
         <Header data={this.state.Data.main}/>
         <About data={this.state.Data.main}/>
         <Resources data={this.state.Data.resources}/>
+        <Progress data={this.state.Data.progress}/>
         <Tools data={this.state.Data.tools}/>
         <Footer data={this.state.Data.main}/>
       </div>

@@ -276,6 +276,53 @@ ul#nav li.current a { color: #fe6928; }
    margin-top: 6px;
 }
 
+/* ------------------------------------------------------------------ */
+/* d. progress Section
+/* ------------------------------------------------------------------ */
+
+#progress {
+   background: rgb(238, 232, 232);
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#progress a, #progress a:visited  { color: #0762f9; }
+#progress a:hover, #progress a:focus { color: #313131; }
+
+#progress h1 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: #95A3A3;
+}
+#progress h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+#progress h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#progress .header-col { padding-top: 9px; }
+#resume .main-col { padding-right: 10%; }
+
+#progress .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#progress .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#progress .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
