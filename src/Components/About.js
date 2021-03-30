@@ -40,7 +40,7 @@ class About extends Component {
 
             <h2>Instructors</h2>
             <p className="address">
-               <span>David Feil-Seifer(Associate Professor, Graduate Director)</span><br />
+               <span>David Feil-Seifer (Associate Professor, Graduate Director)</span><br />
                <span>Devrin Lee</span><br />
             </p>
 

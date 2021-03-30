@@ -3,11 +3,7 @@
     "name":"Honeypot Attack Visualizer",
     "description":"CS 426 Senior Project in Computer Science, Spring 2021, at UNR, CSE Department",
     "image":"profilepic.jpg",
-<<<<<<< HEAD
     "bio":"The Honeypot Attack Visualizer is a web application that provides a rich interface for filtering and visualizing previous attacks on a set of honeypots. The visualizer is designed to utilize data from the Cybex-P project at the University of Nevada, Reno. Cybex-P allows security researchers to share details on cyber threats while preserving privacy, although it does not provide ways to analyze the data. The Honeypot Attack Visualizer seeks to fill that role. A map forms the foundation for the visualizer. Honeypot attacks are then presented on a GPU-accelerated map overlay that allows the attacks to be depicted in a variety of formats. The specific attacks that are included in the overlay and the format they are shown in are controlled through numerous options and filters. These options and filters aim to provide users with new perspectives on the same data and help create connections between different parts of the data. ",
-=======
-    "bio":"The Honeypot Attack Visualizer is designed to provide users with real time data on locations and variations of attacks           that are occurring around the world. The data from the honeypots is displayed on a web based application that provides           users with a map and options to control what data types they prefer to be visualized. The data is collected through the          utilization of multiple honeypots located in several cities around the world that log all incoming attacks. These data           entries range from attacks directed at specific honeypots, the number of attacks, and a specific date or a range of              dates. The intended users are cybersecurity professionals or organizations looking to understand the many different              attack attempts that exist in the world. It would benefit experts by providing insight on potential threats that may             target their systems in the future along with their origins. For the general public, the visualization would provide an          estimate or sample of the many cyber attacks that exist through an interactive web application. The Honeypot Attack              Visualizer utilizes a variety of technologies to provide users with engaging visualization of attacks. For the                   front-end, the map and its options are displayed using React, Deck.gl, Google Maps, and Mapbox. The map receives data            from a database server that runs on MySQL and conducts automated daily updates of honeypot data through the use of                Python scripts.",
->>>>>>> 6e637bbcd6116a4aecabffac7496641d8f8e3835
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -146,11 +142,6 @@
         "title":"Deck.gl",
         "image":"deck-gl.png",
         "url":"https://deck.gl/"
-      },
-      {
-        "title":"Google Maps",
-        "image":"googlemaps.png",
-        "url":"https://cloud.google.com/maps-platform/?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_460848633508-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20Google%20Maps%20API-KWID_43700033921822021-kwd-335425467-userloc_9030900&utm_term=KW_google%20maps%20api-ST_google%20maps%20api&gclid=Cj0KCQiAx9mABhD0ARIsAEfpavSiC4uqAGTb57gXEafP5ufTSe5UvkWOA8-wHCoVmYHXvyYYl7p09jsaAkBpEALw_wcB"
       },
       {
         "title":"MapBox",
